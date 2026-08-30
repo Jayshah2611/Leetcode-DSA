@@ -7,6 +7,7 @@ Learning DSA
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Jayshah2611/Leetcode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [1480-running-sum-of-1d-array](https://github.com/Jayshah2611/Leetcode-DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -27,4 +28,8 @@ Learning DSA
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Jayshah2611/Leetcode-DSA/tree/master/0010-regular-expression-matching) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Jayshah2611/Leetcode-DSA/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
