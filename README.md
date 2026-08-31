@@ -22,6 +22,7 @@ Learning DSA
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Jayshah2611/Leetcode-DSA/tree/master/0010-regular-expression-matching) |
+| [0125-valid-palindrome](https://github.com/Jayshah2611/Leetcode-DSA/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -50,4 +51,8 @@ Learning DSA
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Jayshah2611/Leetcode-DSA/tree/master/0169-majority-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Jayshah2611/Leetcode-DSA/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
