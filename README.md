@@ -7,6 +7,7 @@ Learning DSA
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Jayshah2611/Leetcode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Jayshah2611/Leetcode-DSA/tree/master/0169-majority-element) |
 | [1480-running-sum-of-1d-array](https://github.com/Jayshah2611/Leetcode-DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Binary Search
 |  |
@@ -16,6 +17,7 @@ Learning DSA
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Jayshah2611/Leetcode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Jayshah2611/Leetcode-DSA/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -32,4 +34,20 @@ Learning DSA
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Jayshah2611/Leetcode-DSA/tree/master/1480-running-sum-of-1d-array) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Jayshah2611/Leetcode-DSA/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Jayshah2611/Leetcode-DSA/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Jayshah2611/Leetcode-DSA/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Jayshah2611/Leetcode-DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
