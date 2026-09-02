@@ -7,6 +7,7 @@ Learning DSA
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Jayshah2611/Leetcode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0088-merge-sorted-array](https://github.com/Jayshah2611/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Jayshah2611/Leetcode-DSA/tree/master/0169-majority-element) |
 | [1480-running-sum-of-1d-array](https://github.com/Jayshah2611/Leetcode-DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Binary Search
@@ -42,6 +43,7 @@ Learning DSA
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Jayshah2611/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Jayshah2611/Leetcode-DSA/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -54,5 +56,6 @@ Learning DSA
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Jayshah2611/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Jayshah2611/Leetcode-DSA/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
